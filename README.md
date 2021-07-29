@@ -1,5 +1,5 @@
 # Yelp-camp
-- [Demo](https://limitless-mesa-21141.herokuapp.com/)
+- [Demo](https://yelp-camp-hr.herokuapp.com/)
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
