@@ -11,6 +11,6 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 
 # Screenshots :
 
-![Screenshot (49)](https://user-images.githubusercontent.com/49223863/127363630-1c5861ee-7fd2-4473-aa47-e604e05a4bb9.png)
-![Screenshot (51)](https://user-images.githubusercontent.com/49223863/127363643-f88ae642-1770-4d82-ac83-9d69d4bc2be8.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/49223863/127363650-c95c829a-046a-44bb-b076-859ef1c6443f.png)
+![WhatsApp Image 2021-07-30 at 6 36 47 PM (1)](https://user-images.githubusercontent.com/49223863/127657367-2d3e7085-4138-4dde-9311-f489a8caef81.jpeg)
+![WhatsApp Image 2021-07-30 at 6 33 41 PM](https://user-images.githubusercontent.com/49223863/127657420-4010a9e8-d53e-492d-a96a-bfd11cbe6c0f.jpeg)
+![WhatsApp Image 2021-07-30 at 6 36 47 PM](https://user-images.githubusercontent.com/49223863/127657423-9259a2a9-7dff-42ea-8a2b-0059d54e0c4e.jpeg)
